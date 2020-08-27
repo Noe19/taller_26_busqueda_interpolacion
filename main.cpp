@@ -2,6 +2,7 @@
 #include <fstream>
 
 //esta almacenado en un  archivo
+//Interpolacion
 
 using namespace std;
 void ingresar();
